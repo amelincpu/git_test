@@ -4,4 +4,4 @@ test
 
 import datetime
 
-print('Current time:', datetime.datetime.now())
+print('\nCurrent time:', datetime.datetime.now(), '\n')
